@@ -1,11 +1,13 @@
-# Obsidian Notes
+# Akal's Notes
 
-Publish your public notes with MkDocs
+Akal is a CS Student at CSUS.
+He tries to study but fails.
+Don't be like him.
 
-## Hello World!
+But here's his poor attempt at notes.
 
-The `index.md` in the `/docs` folder is the homepage you see here.
+## Fall 2023 Semester
 
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+- CSC 35 -  **Introduction to Computer Architecture** (Assembly)
+- CSC 28 -  **Discrete Structures for Computer Science**
+- PHYS 11A - **General Physics: Mechanics**
