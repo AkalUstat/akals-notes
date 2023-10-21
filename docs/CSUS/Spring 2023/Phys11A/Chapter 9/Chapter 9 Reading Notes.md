@@ -25,7 +25,7 @@ Work is the change in the energy within a system by mechanical means, e.g., push
 #### The Energy of a System
 
 the total energy of a system is defined as $$E_{total} = KE + U + E_{th} + E_{chem} + ... $$
-
+$$ E_{total} $$
 # The Energy Principle
 
 $$\Delta E_{sys}=W_{external}$$
